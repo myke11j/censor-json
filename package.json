@@ -1,0 +1,25 @@
+{
+  "name": "censor-json",
+  "version": "1.0.0",
+  "description": "JSON redacting library for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "demo": "node ./demo/demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myke11j/censor-json.git"
+  },
+  "keywords": [
+    "nodejs",
+    "redacting",
+    "censoring"
+  ],
+  "author": "Mukul <mukul1904@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myke11j/censor-json/issues"
+  },
+  "homepage": "https://github.com/myke11j/censor-json#readme"
+}
