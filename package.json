@@ -1,6 +1,6 @@
 {
   "name": "censor-json",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "JSON redacting library for nodejs",
   "main": "index.js",
   "scripts": {
