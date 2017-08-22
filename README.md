@@ -9,8 +9,8 @@ npm install --save censor-json
 
 # Usage
 
-Its usage ius quite simple.
-You will need two things to use it
+Its usage is quite simple.
+You will need two things
 - A json object which you want to redact/censor
 - A mapping object, i.e, array of paths which will be redacted.
 
